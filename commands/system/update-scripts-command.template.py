@@ -30,7 +30,7 @@ from dataclasses import dataclass
 # 🚨 SHOULD BE CHANGED ACCORDING TO YOUR NEEDS
 # This should be changed with the path to your root Raycast scripts folder.
 # eg: path_to_scripts = "/Users/quentin/Raycast Scripts"
-path_to_scripts = "/PATH/TO/ROOT/SCRIPTS/FOLDER/"
+path_to_scripts = "/Users/deannorman/Development/Raycast/script-commands"
 
 # 🚨 SHOULD BE CHANGED ACCORDING TO YOUR NEEDS
 # Keep it unchanged if you don't want to ignore scripts.
